@@ -1,0 +1,6 @@
+]0;~/material_laboratorio4/CORRECAO[01;34m~/material_laboratorio4/CORRECAO[00m$ python optim_mini.py 
+Traceback (most recent call last):
+  File "optim_mini.py", line 59, in <module>
+    with open('P5-large_no.csv', 'r') as file:
+IOError: [Errno 2] No such file or directory: 'P5-large_no.csv'
+]0;~/material_laboratorio4/CORRECAO[01;34m~/material_laboratorio4/CORRECAO[00m$ 

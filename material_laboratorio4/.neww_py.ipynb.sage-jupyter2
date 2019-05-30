@@ -1,0 +1,5 @@
+{"backend_state":"running","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":79224832},"trust":true,"type":"settings"}
+{"end":1550749933328,"exec_count":14,"id":"f017a8","input":"run template","kernel":"python3","output":{"0":{"name":"stdout","text":"======================================\nI=3\ncoefficient [ 0.20282713 -0.51882772  1.05060168 -0.70292874]\nin sample error 2.515573e-05\n"},"1":{"data":{"image/png":"bef1635af988ee9b55c887a2ddb404695b867f1e"},"metadata":{"image/png":{"height":277,"width":400}}},"2":{"name":"stdout","text":"bye\n"}},"pos":0,"scrolled":true,"start":1550749789578,"state":"done","type":"cell"}
+{"id":"9f2ac0","input":"","pos":1,"state":"done","type":"cell"}
+{"id":0,"time":1558218369533,"type":"user"}
+{"last_load":1550740528325,"type":"file"}

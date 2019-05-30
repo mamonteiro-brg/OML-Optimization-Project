@@ -1,0 +1,4 @@
+{"backend_state":"running","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":79298560},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.6.7"}},"trust":true,"type":"settings"}
+{"cell_type":"code","exec_count":0,"id":"4369cf","input":"","pos":0,"state":"done","type":"cell"}
+{"id":0,"time":1558393138864,"type":"user"}
+{"last_load":1558308840019,"type":"file"}

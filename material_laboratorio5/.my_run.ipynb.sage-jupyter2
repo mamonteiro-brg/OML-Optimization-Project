@@ -1,0 +1,5 @@
+{"backend_state":"running","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":79224832},"trust":true,"type":"settings"}
+{"cell_type":"code","end":1552563376319,"exec_count":34,"id":"313024","input":"run template1.py","kernel":"python3","output":{"0":{"data":{"image/png":"640a31bff0084fdefe5b548fceed7225ccb474db"},"metadata":{"image/png":{"height":251,"width":373}}},"1":{"data":{"image/png":"81ffdf31b80f5ac8883ee0e6ff4881ccddf8a874"},"metadata":{"image/png":{"height":265,"width":387}}},"2":{"data":{"image/png":"79c9571470dc21a977f6ba8821fc911d2007a65d"},"metadata":{"image/png":{"height":250,"width":382}}},"3":{"name":"stdout","text":"in-samples error=0.166667 \n"},"4":{"data":{"image/png":"09d08efd663efd784db8c12f876792faefb1d902"},"metadata":{"image/png":{"height":250,"width":382}}},"5":{"name":"stdout","text":"out-samples error=0.083333\nbye\n"}},"pos":0,"start":1552563374460,"state":"done","type":"cell"}
+{"id":"585d60","input":"","pos":1,"state":"done","type":"cell"}
+{"id":0,"time":1553210900423,"type":"user"}
+{"last_load":1552556245880,"type":"file"}

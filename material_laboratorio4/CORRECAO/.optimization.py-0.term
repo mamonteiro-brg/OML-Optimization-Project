@@ -1,0 +1,6 @@
+]0;~/material_laboratorio4/CORRECAO[01;34m~/material_laboratorio4/CORRECAO[00m$ python optimization.py
+Traceback (most recent call last):
+  File "optimization.py", line 52, in <module>
+    with open('P3.csv', 'r') as file:
+IOError: [Errno 2] No such file or directory: 'P3.csv'
+]0;~/material_laboratorio4/CORRECAO[01;34m~/material_laboratorio4/CORRECAO[00m$ [K]0;~/material_laboratorio4/CORRECAO[01;34m~/material_laboratorio4/CORRECAO[00m$ 
