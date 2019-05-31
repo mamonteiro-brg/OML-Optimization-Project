@@ -7,6 +7,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import math
 import sys
+import numpy as np
+
 
 from itertools import chain,repeat
 
@@ -44,7 +46,6 @@ def step(w,x,y,g,N):
 # #Nb - Numero de registos que vão ser usadas para a amostra -  este valor está a ser calculado
     # o Nb vai ser calculado com Nb = ...ceil(T**iterador)
 
-import numpy as np
 
 def backtracking(w,xt,yt,Gb,Nt):
 
@@ -130,7 +131,7 @@ def get_data_sequencial(xt,yt,Nt,Nb,posicao_actual,posicao_actual_w_Nb):
 #=========== MAIN CODE ===============
 # read the data file
 x=[];y=[]; N=0
-with open('P5-large_no.csv', 'r') as file:
+with open('P5-large_yes.csv', 'r') as file:
     reader = csv.reader(file)
     for u in reader:
         x=np.append(x,float(u[0]))
