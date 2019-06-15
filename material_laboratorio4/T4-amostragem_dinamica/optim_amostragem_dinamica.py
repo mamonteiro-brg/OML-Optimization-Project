@@ -187,20 +187,6 @@ while ok:
     # Nt - Numero total de registos usados para treino
     Nb=min(Nb,Nt)
 
-    #print("-----------")
-    #print("Nb - iter  : ",iter)
-    #print("Nt  : ",Nt)
-    #print("Nb - valor calculado  : ",Nb)
-    #print("posicao_actual: ", posicao_actual)
-    #print("Nb + posicao_actual: ", Nb + posicao_actual)
-    #print("-----------")
-
-    # Depois disso teremos de alterar o get_data de modo aos dados serem escolhidos de uma forma sequencial e não de uma forma random
-    # para isso teremos de saber sempre em que posição estamos actualmente
-
-    #xt - conjunto de features/preditores de dados de treino
-    #yt - conjunto de variaveis de targets/dependentes de dados de treino
-    #Nb - Numero de registos que vão ser usadas para a amostra -  este valor está a ser calculado
 
     posicao_actual_w_Nb= Nb + posicao_actual
 
